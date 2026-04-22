@@ -4,7 +4,7 @@ Aplicação web para cálculo do Índice de Massa Corporal (IMC), desenvolvida c
 
 ## 📸 Screenshot
 
-![Calculadora de IMC](funcionando-imc.png)
+![Calculadora de IMC](screeshot.png)
 
 ## ✅ Funcionalidades
 
