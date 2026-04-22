@@ -22,7 +22,8 @@ html, body {
 body {      
     background-size: cover;
     background-attachment: fixed;    
-    width: 400px;
+    width: 100%;
+    max-width: 400px;
     height: auto;
     text-align: center;
     margin: auto;
